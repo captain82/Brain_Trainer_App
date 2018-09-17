@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Brain Trainer</string>
+    <string name="correct">CORRECT</string>
+    <string name="oops">oops</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="final_score">Final Score</string>
+
+
+</resources>
